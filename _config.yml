@@ -16,39 +16,37 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: d3vFl0w                           # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 
+There's something strange on the edge of madness, it's a fine line, in the end, everything that makes us uncomfortable is an invitation for us to evolve   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  d3vFl0w personal page for writeups, reports and researching
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://d3vFl0wlo.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: d3vFl0wlo             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+linkedin:
+  username: hvsjr            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: d3vFl0w
+  email: devflowlo@proton.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/hvsjr/      
+    - https://github.com/d3vFl0wlo       
 
 google_site_verification:               # fill in to your verification string
 
